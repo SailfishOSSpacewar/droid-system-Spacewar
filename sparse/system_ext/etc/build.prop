@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nothing
+ro.product.system_ext.device=Spacewar
+ro.product.system_ext.manufacturer=Nothing
+ro.product.system_ext.model=A063
+ro.product.system_ext.name=Spacewar
+ro.system_ext.build.date=Thu Dec  5 10:35:47 UTC 2024
+ro.system_ext.build.date.utc=1733394947
+ro.system_ext.build.fingerprint=Nothing/lineage_Spacewar/Spacewar:14/AP2A.240905.003/eng.ext.20241205.103548:user/release-keys
+ro.system_ext.build.id=AP2A.240905.003
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.ext.20241205.103548
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from device/nothing/Spacewar/properties/system_ext.prop
+####################################
+# DPM
+persist.vendor.dpm.feature=11
+# RIL
+telephony.active_modems.max_count=2
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.camera.privapp.list=com.nothing.camera
+ro.com.google.lens.oem_camera_package=com.nothing.camera
+vendor.camera.aux.packagelist=com.nothing.camera
+# end of file
