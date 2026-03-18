@@ -1,4 +1,4 @@
-%define rpm_device Spacewar
+%define rpm_device spacewar
  
 %include droid-system-license.inc
 %include droid-system-common.inc
